@@ -1,0 +1,82 @@
+# Build artifacts
+*.o
+*.obj
+*.ko
+*.mod.c
+*.mod
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+*.bin
+*.map
+*.exp
+*.ilk
+*.pdb
+*.tlog
+*.idb
+*.ipch
+
+# Temporary files
+*~
+*.bak
+*.swp
+*.swo
+*.tmp
+*.log
+*.gch
+*.pch
+
+# IDE-specific files (adjust as needed for your IDE)
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.VC.opendb
+*.vcxproj.user
+*.suo
+*.user
+*.ncb
+*.aps
+*.bsc
+*.sbr
+*.res
+Debug/
+Release/
+x64/
+Win32/
+build/
+
+# CLion
+.idea/
+cmake-build-*/
+
+# VS Code
+.vscode/
+
+# Qt Creator
+*.pro.user
+*.user
+Makefile*
+build-*
+
+# Eclipse
+.project
+.cproject
+.settings/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+CTestTestfile.cmake
+
+# Other
+*.DS_Store # macOS
+Thumbs.db # Windows
+
+*/a.exe
