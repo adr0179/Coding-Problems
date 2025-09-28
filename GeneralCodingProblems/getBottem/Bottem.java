@@ -23,10 +23,14 @@ public class Bottem<E> {
         // save bottem value
         val = stack.peek();
 
+        // save temp size
+        int tempSize = temp.size();
+
         // push back removed elements
-        for (int i = 0; i < temp.size(); i++) {
+        for (int i = 0; i < tempSize; i++) {
             stack.push(temp.pop());
         }
+
         return val;
     }
 
@@ -38,8 +42,6 @@ public class Bottem<E> {
         s.push(90);
         s.push(4);
         s.push(9);
-
-
 
         Bottem<Integer> b = new Bottem<Integer>();
         System.out.println(b.getBottem(s));

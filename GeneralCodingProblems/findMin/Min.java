@@ -17,7 +17,7 @@ public class Min {
             }
 
             // change the min if current min is bigger than the next
-            if (array[i] > array[i + 1]) {
+            if (min > array[i + 1]) {
                 min = array[i + 1];
             } else {
                 continue; // otherwise continue
