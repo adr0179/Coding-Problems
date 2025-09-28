@@ -1,4 +1,4 @@
-package mtPractice.countOccurrences;
+package GeneralCodingProblems.countOccurrences;
 
 import java.util.LinkedList;
 

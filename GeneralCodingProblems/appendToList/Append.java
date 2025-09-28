@@ -1,4 +1,4 @@
-package mtPractice.appendToList;
+package GeneralCodingProblems.appendToList;
 
 import java.util.ArrayList;
 

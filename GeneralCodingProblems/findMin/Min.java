@@ -1,4 +1,4 @@
-package mtPractice.findMin;
+package GeneralCodingProblems.findMin;
 
 public class Min {
     public static int findMin(int[] array) {

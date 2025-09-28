@@ -1,4 +1,4 @@
-package mtPractice.getBottem;
+package GeneralCodingProblems.getBottem;
 
 import java.util.Stack;
 

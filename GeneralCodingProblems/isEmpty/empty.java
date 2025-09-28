@@ -1,4 +1,4 @@
-package mtPractice.isEmpty;
+package GeneralCodingProblems.isEmpty;
 
 import java.util.Stack;
 
