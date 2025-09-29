@@ -2,9 +2,6 @@
 #include "profArts.cpp"
 #include "museum.cpp"
 
-// do the bonus exersises (Allow filtering of the art pieces in the museum’s collection based on specific criteria 
-// (e.g., only display VisualArt pieces, only display dance performances of a specific style).)
-
 int main() {
     // paintings
     Painting p = Painting("Leonardo Divinci", "Mona Lisa", 1503, "Visual Art", 30);
