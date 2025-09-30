@@ -1,4 +1,4 @@
-package GeneralCodingProblems.countOccurrences;
+package countOccurrences;
 
 import java.util.LinkedList;
 

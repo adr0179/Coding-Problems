@@ -1,4 +1,4 @@
-package GeneralCodingProblems.appendToList;
+package appendToList;
 
 import java.util.ArrayList;
 

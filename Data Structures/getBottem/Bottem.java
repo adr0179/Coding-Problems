@@ -1,4 +1,4 @@
-package GeneralCodingProblems.getBottem;
+package getBottem;
 
 import java.util.Stack;
 
