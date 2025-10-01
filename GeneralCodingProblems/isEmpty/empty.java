@@ -1,4 +1,4 @@
-package GeneralCodingProblems.isEmpty;
+package isEmpty;
 
 import java.util.Stack;
 

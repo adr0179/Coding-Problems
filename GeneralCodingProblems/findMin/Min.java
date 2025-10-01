@@ -1,4 +1,4 @@
-package GeneralCodingProblems.findMin;
+package findMin;
 
 public class Min {
     public static int findMin(int[] array) {
