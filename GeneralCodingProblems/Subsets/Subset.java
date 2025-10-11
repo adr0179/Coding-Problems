@@ -1,4 +1,4 @@
-package Y2DS.Subsets;
+package Subsets;
 import java.util.List;
 import java.util.ArrayList;
 
